@@ -130,7 +130,7 @@ namespace NunitBDDTestAssignmentForTFL.Pages
 
         public string getJourneyResultPageSectionHeader()
         {
-            return -journeyResultPageSectionHeader.Text;
+            return journeyResultPageSectionHeader.Text;
         }
     }
 }
